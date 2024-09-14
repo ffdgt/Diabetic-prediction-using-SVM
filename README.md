@@ -1,1 +1,3 @@
 # Diabetic-prediction-using-SVM
+
+#The Diabetes Prediction project aims to classify patients as having diabetes or not based on various health metrics. It utilizes a Support Vector Machine (SVM) model to make predictions, achieving an accuracy of 77% on test data. The project includes data preprocessing techniques such as standardization and train-test split to enhance model performance. Exploratory data analysis (EDA) is conducted to assess feature distributions and target variable balance, informing model selection and evaluation strategies. The project demonstrates proficiency in machine learning concepts, data manipulation, and model development using Python libraries like pandas, NumPy, and scikit-learn.
